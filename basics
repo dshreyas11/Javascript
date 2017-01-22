@@ -1,0 +1,7 @@
+alert("hello world");  //the alert is not a javaScript function infact it is provided by the browser
+a=2;
+var b=2;
+//here a returns a value 2 where as b doesn't returns a value.
+console.log(b); // javaScript way to output a function
+
+var your_aim=prompt("what is your aim?");
