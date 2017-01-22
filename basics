@@ -5,3 +5,9 @@ var b=2;
 console.log(b); // javaScript way to output a function
 
 var your_aim=prompt("what is your aim?");
+
+alert(42); //this changes 42 into the string to print
+
+comments should never say "WHAT" IS YOUR PROGRAM that says what? COMMENTS SAY " why? and how? " !!
+
+void 2; // makes 2 undefined 
