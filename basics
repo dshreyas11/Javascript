@@ -11,3 +11,14 @@ alert(42); //this changes 42 into the string to print
 comments should never say "WHAT" IS YOUR PROGRAM that says what? COMMENTS SAY " why? and how? " !!
 
 void 2; // makes 2 undefined 
+a=5;
+while(true){
+	if(a>=10){
+		break;
+	}
+	console.log(a);
+}
+
+// loops doesn't stop until it fails and not the way until its true.!
+
+//function doesn't return a value explicitly but does return a default value that is = return undefined ! 
